@@ -1,4 +1,4 @@
-# Hotel & Apartment Booking API
+# Hotel & Apartment Booking API 
 
 > Production-ready REST API for hotel and apartment reservations —
 > real-time availability validation, role-based access, and multilingual
